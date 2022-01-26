@@ -720,5 +720,5 @@ if __name__=='__main__':
             speak('Your AI assistant Vector is shutting down, thankyou, Good bye')
             print('Your AI assistant Vector is shutting down, thankyou, Good bye')
             break
-        
+            
 time.sleep(2)
