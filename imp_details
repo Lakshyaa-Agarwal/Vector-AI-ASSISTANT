@@ -1,0 +1,25 @@
+Problem statement: 
+When we are concerning the manual process of working on a system, the major problem is the wastage of time. A user has to waste his/her valuable time when he/she is already pre-occupied with some other important work.  With the developing modern world and boom of automation there are many people who fail to run their systems smoothly and end up ruffling. In today’s world everyone want their work to be done lightning fast without taking much pains. They don’t want to stick to one thing for hours to get a single task done. Briefly, everyone prefers most of their things to be sorted at the backend itself. More importantly, it is a tough task for the differently abled people in this world to maintain pace with the new technology and work with it hand in hand. Even in 21st century, it’s still not possible for visually impaired people to experience such amazing benefits of the technology. 
+
+
+OBJECTIVE AND SCOPE OF PROJECT:
+The objective of the software project is to develop a personalized artificial intelligence assistant and to switch the process of working on a computer completely to voice commands.It mainly consists of a computerized database, a collection of inter-related tables/CSV Files for a particular application location and various other details involved with it. The assistant will already have reference link of frequently used websites and login details for the same (if required).This software, being simple in design and working, does not require months of training to users, and can be used as a powerful tool for automating ancient process of typing down everything. The proposed software system is expected to do the following functionality: 
+•	To provide a user friendly and customised virtual helper.   
+•	The proposed system is programmed to perform minor tasks like opening YouTube, Google Chrome, Gmail and Stack Overflow.  
+ •	It can tell time, take a photo, browse over Wikipedia, predict weather in different cities, get top headlines from Times of India. 
+ •	It can also keep the users entertained by telling hilarious jokes, keep them relaxed by good, soothing music too. 
+ •	It can also solve computational and geographical questions. 
+  •	In its current scope, the software enables user to retrieve and update the information from centralized database designed with CSV. This software does not require much training time of the users due to limited functionality and simplicity.  
+  
+  
+Features:
+-Maintain systematic record of data: user can give file locations of various applications, user-id, passwords and APIcodes too for faster login.    
+-	Modify various records: user can edit and modify the records when he/she makes any changes in the base system.   
+-	Delete various records: users can also delete the prestored records as per their needs.   
+-	Reduces human effort: once all the necessary details are stored, the user need not even touch the keyboard to give commands to the system.   
+During the development of the VIRTUAL AI ASSISTANT project, Python IDLE a powerful environment is used.   
+   
+   
+CONTRIBUTION OF THE PROJECT IN REAL WORLD:
+By the use of virtual AI assistant, the user will feel better than when it was manual. He’ll will get a very quick service by reducing the manual typing. Also, the users will get a new platform to explore. The scope of typing errors will be eliminated. Easy to handle a large database. There will be no extra burden of remembering all the passcodes etc.Along with differently abled people and beginners, skilled gentry can also use this system to reduce their workload, to save time and expose themselves to a hands-free interface. The purpose of this project is to help the needy, visually impaired people to get this opportunity to take benefits of modern technology.
+   
